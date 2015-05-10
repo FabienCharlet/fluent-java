@@ -1,2 +1,4 @@
 # fluent-java
-Fluent Java
+This is the repository for Fluent Java project.
+
+More coming soon !
